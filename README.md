@@ -1,16 +1,16 @@
 # Student-Admission-Frontend
 
-A complete student admissions module that simulates rounds of allotment based on the choices made by the individual applicants.
+A complete student admissions module that simulates rounds of allotment based on the choices made by the individual applicants during the Filling of Admission form
 
 ### Technologies: 
-Frontend: React, Bootstrap
+Frontend: JavaScript ,React, Bootstrap
 
-Backend: Node, Express
+Backend: NodeJS, Express
 
-Database: Postgres
+Database: Postgres and Use of TablePlus
 
 Deployment: https://student-admissions-lnmiit.up.railway.app
 
-### Note:
-Deployment subject to discontinue from Aug 1 2023 due to Railway pulling plug on the free tier. Slow claps Railway.
+
+Deployment for the following is done on the Vercel
 
